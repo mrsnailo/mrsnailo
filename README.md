@@ -1,37 +1,66 @@
-<h1 align="center">Hi 👋, I'm Shahid Parvez</h1>
-<h3 align="center">A passionate developer from 🇧🇩</h3>
+### :wave: Hi there  - I'm Shahid Parvez
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsnailo&label=Profile%20views&color=0e75b6&style=flat" alt="mrsnailo" /> </p>
+[![Website](https://img.shields.io/website?color=F5A65B&down_color=tomato&down_message=Down&label=mrsnailo.github.io&style=for-the-badge&up_color=6CAE75&up_message=up&url=https%3A%2F%2Fmrsnailo.github.io)](https://mrsnailo.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mrsnailo?color=00ACEE&logo=twitter&style=for-the-badge)](https://twitter.com/mrsnailo)
+
+## I am a student
 
 
-- 🌱 I’m currently learning **LAMP Stack**
+- Learning **LAMP Stack**
 
-- 👨‍💻 All of my projects are available at [http://mrsnailo.github.io/projects](http://mrsnailo.github.io/projects)
+- Random **otaku** and **linux Lover**
 
-- 📝 I regularly write articles on [http://mrsnailo.github.io/blog](http://mrsnailo.github.io/blog)
+- Fun fact **I use Tabs Over Spaces**
 
-- 📫 How to reach me **shahidparvez.official@gmail.com**
+### Languages and Tools:
 
-- 📄 Know about my experiences [http://mrsnailo.github.io/resume](http://mrsnailo.github.io/resume)
-
-- ⚡ Fun fact **I use Tabs Over Spaces**
-
-<h3 align="left">Connect with me:</h3>
+#### Languages:
 <p align="left">
-<a href="https://twitter.com/mrsnailo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrsnailo" height="30" width="40" /></a>
-<a href="https://fb.com/mrsnailo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrsnailo" height="30" width="40" /></a>
-<a href="https://instagram.com/mrsnailo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrsnailo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrsnailo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrsnailo" height="30" width="40" /></a>
+  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img align="center" src="https://img.shields.io/badge/Python-5B85AA?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-<h3 align="center" style="margin: 10px 0 10px 0">Languages and Tools:</h3>
-<div  style="border: 2px solid beige;padding: 10px 0 3px 0;">
-  <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> 
- </div>
+#### Database
+<p align="left">
+<img align="center" src="https://img.shields.io/badge/Msql-372248?style=for-the-badge&logo=mysql&logoColor=white" alt="Msql">  
+</p>
 
-<div>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsnailo&show_icons=true&locale=en&layout=compact" alt="mrsnailo" /></p>
+#### Framework
+<p align="left">
+  <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img align="center" src="https://img.shields.io/badge/Laravel-2CA5E0?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img align="center" src="https://img.shields.io/badge/Wordpress-009639?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsnailo&show_icons=true&locale=en" alt="mrsnailo" /></p>
-</div>
+#### os
 
+<p align="left">
+    <img align="center" src="https://img.shields.io/badge/Arch-7B0828?style=for-the-badge&logo=archlinux&logoColor=blue" alt="Arch">
+    <img align="center" src="https://img.shields.io/badge/-Winodows-28C2FF?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
+    <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+</p>
+
+#### IDEs:
+<p align="left">
+  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSC" />
+  <img align="center" src="https://img.shields.io/badge/Intellij-EFA00B?style=for-the-badge&logo=IntelliJ+IDEA&logoColor=black" alt="Intellij">
+</p>
+
+<p>
+  
+</p>
+
+<br />
+<br />
+
+---
+
+<details>	
+<summary>:zap: Github Stats</summary>
+	<img alt="mrsnailo git stats" src="https://github-readme-stats.vercel.app/api?username=mrsnailo&theme=nord&show_icons=true&hide_border=true"/>
+	<img alt="amrsnailo streak" src="https://github-readme-streak-stats.herokuapp.com?user=mrsnailo&amp;theme=gotham&amp;hide_border=true&amp;background=1B2224&amp;stroke=718F97&amp;ring=2EB398&amp;fire=2EB398&amp;currStreakNum=C6CDCB&amp;sideNums=C6CDCB&amp;currStreakLabel=2EB398&amp;sideLabels=C6CDCB"/>
+	<img alt="ahmubashshir/graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsnailo&amp;theme=github_dark"/>
+</details>
+<!-- Will be updated in future -->
