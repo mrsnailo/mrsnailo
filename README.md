@@ -1,66 +1,91 @@
-### :wave: Hi there  - I'm Shahid Parvez
+<h1 align="center">Hey there 👋, I'm Shahid Parvez</h1>
 
-[![Website](https://img.shields.io/website?color=F5A65B&down_color=tomato&down_message=Down&label=mrsnailo.github.io&style=for-the-badge&up_color=6CAE75&up_message=up&url=https%3A%2F%2Fmrsnailo.github.io)](https://mrsnailo.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mrsnailo?color=00ACEE&logo=twitter&style=for-the-badge)](https://twitter.com/mrsnailo)
-
-## I am a student
-
-
-- Learning **LAMP Stack**
-
-- Random **otaku** and **linux Lover**
-
-- Fun fact **I use Tabs Over Spaces**
-
-### Languages and Tools:
-
-#### Languages:
-<p align="left">
-  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img align="center" src="https://img.shields.io/badge/Python-5B85AA?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<p align="center">
+  <a href="https://mrsnailo.github.io">
+    <img alt="Website" src="https://img.shields.io/website?label=mrsnailo.github.io&style=for-the-badge&url=https%3A%2F%2Fmrsnailo.github.io&up_color=6CAE75&down_color=tomato" />
+  </a>
+  <a href="https://twitter.com/mrsnailo">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mrsnailo?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" />
+  </a>
 </p>
-
-#### Database
-<p align="left">
-<img align="center" src="https://img.shields.io/badge/Msql-372248?style=for-the-badge&logo=mysql&logoColor=white" alt="Msql">  
-</p>
-
-#### Framework
-<p align="left">
-  <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img align="center" src="https://img.shields.io/badge/Laravel-2CA5E0?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img align="center" src="https://img.shields.io/badge/Wordpress-009639?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />
-</p>
-
-#### os
-
-<p align="left">
-    <img align="center" src="https://img.shields.io/badge/Arch-7B0828?style=for-the-badge&logo=archlinux&logoColor=blue" alt="Arch">
-    <img align="center" src="https://img.shields.io/badge/-Winodows-28C2FF?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
-    <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-</p>
-
-#### IDEs:
-<p align="left">
-  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSC" />
-  <img align="center" src="https://img.shields.io/badge/Intellij-EFA00B?style=for-the-badge&logo=IntelliJ+IDEA&logoColor=black" alt="Intellij">
-</p>
-
-<p>
-  
-</p>
-
-<br />
-<br />
 
 ---
 
-<details>	
-<summary>:zap: Github Stats</summary>
-	<img alt="mrsnailo git stats" src="https://github-readme-stats.vercel.app/api?username=mrsnailo&theme=nord&show_icons=true&hide_border=true"/>
-	<img alt="amrsnailo streak" src="https://github-readme-streak-stats.herokuapp.com?user=mrsnailo&amp;theme=gotham&amp;hide_border=true&amp;background=1B2224&amp;stroke=718F97&amp;ring=2EB398&amp;fire=2EB398&amp;currStreakNum=C6CDCB&amp;sideNums=C6CDCB&amp;currStreakLabel=2EB398&amp;sideLabels=C6CDCB"/>
-	<img alt="ahmubashshir/graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsnailo&amp;theme=github_dark"/>
+### 💻 About Me
+
+- 🎓 Currently exploring full-stack web development.
+- 🔧 Learning the **LAMP stack**, and expanding into **React** & **RESTful APIs**.
+- 🐧 Passionate **Linux** enthusiast & minimal Arch user.
+- 🧠 Forever curious — I enjoy diving into systems, tinkering with tools, and automating workflows.
+- 🍙 Random **otaku** + a firm believer in **tabs > spaces**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-5B85AA?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+#### 🗃️ Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+#### ⚙️ Frameworks & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+#### 🧠 Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+#### 🧰 IDEs & Editors
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<details>
+  <summary>✨ Click to expand</summary>
+  <br />
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mrsnailo&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  </p>
+
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=mrsnailo&theme=dracula" alt="GitHub Streak" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsnailo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </p>
+
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsnailo&theme=darcula" alt="GitHub Profile Summary" />
+  </p>
 </details>
-<!-- Will be updated in future -->
+
+
+---
+
+> 💡 *"Keep building. Keep learning. And always stay curious."*
+
+<!-- Future: Add pinned repos, contributions graph, or featured projects -->
