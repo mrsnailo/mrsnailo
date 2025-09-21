@@ -12,8 +12,7 @@
 ---
 
 ### 💻 About Me
-
-- 🚀 Building **TubeOnAI** — an AI-powered content summarization and repurposing tool.  
+ 
 - 💡 Focused on **full-stack web development** with **React**, **Next.js**, and scalable backends.  
 - 🐧 Linux enthusiast (Arch user at heart) with a love for clean, minimal setups.  
 - ⚡ Curious by nature — enjoy solving problems, automating workflows, and tinkering with new tools.  
