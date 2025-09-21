@@ -13,52 +13,51 @@
 
 ### 💻 About Me
 
-- 🎓 Currently exploring full-stack web development.
-- 🔧 Learning the **LAMP stack**, and expanding into **React** & **RESTful APIs**.
-- 🐧 Passionate **Linux** enthusiast & minimal Arch user.
-- 🧠 Forever curious — I enjoy diving into systems, tinkering with tools, and automating workflows.
-- 🍙 Random **otaku** + a firm believer in **tabs > spaces**.
+- 🚀 Building **TubeOnAI** — an AI-powered content summarization and repurposing tool.  
+- 💡 Focused on **full-stack web development** with **React**, **Next.js**, and scalable backends.  
+- 🐧 Linux enthusiast (Arch user at heart) with a love for clean, minimal setups.  
+- ⚡ Curious by nature — enjoy solving problems, automating workflows, and tinkering with new tools.  
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-#### 👨‍💻 Languages
+#### 👨‍💻 Languages  
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-5B85AA?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### 🗃️ Database
+#### 🗃️ Databases  
 <p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### ⚙️ Frameworks & Platforms
+#### ⚙️ Frameworks & Platforms  
 <p>
-  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-#### 🧠 Operating Systems
+#### 🧠 Operating Systems  
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-#### 🧰 IDEs & Editors
+#### 🧰 Editors & IDEs  
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 <details>
   <summary>✨ Click to expand</summary>
@@ -83,9 +82,6 @@
   </p>
 </details>
 
-
 ---
 
-> 💡 *"Keep building. Keep learning. And always stay curious."*
-
-<!-- Future: Add pinned repos, contributions graph, or featured projects -->
+> 💡 *"Keep building. Keep learning. Stay curious."*  
